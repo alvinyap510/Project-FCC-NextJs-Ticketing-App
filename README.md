@@ -35,6 +35,17 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+## Tools Used
+
+Inline Fold
+
+- VS Code extention that folds matching content in a single line
+- Useful to hide verbose Tailwind CSS classes
+
+ES7 React/Redux/GraphQL/React-Native Snippets
+
+- Create React boilerplates
+
 ## Notes
 
 -
